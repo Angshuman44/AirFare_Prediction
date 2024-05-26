@@ -1,0 +1,1 @@
+## Hi this repository contains an ML model to predict Airfare prices in indian aviation industry.
