@@ -1,0 +1,15 @@
+numpy
+pandas
+python-dotenv
+mysql-connector-python
+pymysql
+scikit-learn
+seaborn
+catboost
+xgboost
+flask
+typing
+datetime
+dataclasses
+-e .
+ # Uncomment this if you want to setup the file AirfarePrediction_IndianAirlines.egg-info
