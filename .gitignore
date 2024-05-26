@@ -127,7 +127,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+Airfare/
+.Airfare
 # Spyder project settings
 .spyderproject
 .spyproject
